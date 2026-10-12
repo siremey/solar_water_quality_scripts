@@ -2,7 +2,7 @@ cff-version: 1.2.0
   message: "These are scripts used for the solar water quality project: Persistent increases in turbidity downstream of large-scale solar energy developments in central Texas, please cite using the information below"
   title: "Persistent increases in turbidity downstream of large-scale solar energy developments in central Texas"
   authors:
-  - family-names: "Orji"
-    given-names: "Emeka P."
-    orcid: "https://orcid.org/0009-0006-7695-6051"
+    -family-names: "Orji"
+     given-names: "Emeka P."
+     orcid: "https://orcid.org/0009-0006-7695-6051"
   url: "https://github.com/siremey/solar_water_quality_scripts"
