@@ -10,3 +10,11 @@ date-released: 2026-10-13
 url: "https://github.com/siremey/solar_water_quality_scripts/tree/main"
 preferred-citation:
   type: article
+  authors:
+  - family-names: "Orji"
+    given-names: "Emeka"
+    orcid: "https://orcid.org/0009-0006-7695-6051"
+  doi: "pending"
+  journal: "Environmental Research: Water"
+  title: "Persistent increases in turbidity downstream of large-scale solar energy developments in central Texas"
+  year: 2026
